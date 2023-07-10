@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+body {
+  background-color: #E9EBEC;
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+ 
+}
+
+
+#head {
+  position: relative;
+  left: -238px;
+  top: -10px;
+}
+
+#text2 {
+  position: relative;
+  left: -3%;
+}
+
+#text4 {
+  position: relative;
+  left: -22%;
+}
+
+#text5 {
+  position: relative;
+  left: -17px;
+  top: -80px;
+}
+
+#text6 {
+  position: relative;
+  left: 21%;
+  margin-top: -13%;
+
+
+}
+
+#but {
+  border: hidden;
+ font-size: large;
+  width: 248px;
+ height: 75px;
+ flex-shrink: 0;
+ border-radius: 10px;
+ background: #FBD144;
+}
+
+#but2 {
+  font-size: large;
+width: 290px;
+height: 80px;
+flex-shrink: 0;
+border-radius: 10px;
+border: 0px solid #3E64AA;
+background: #FFF;
+}
+
+
+#bott {
+  font-size: large;
+  position: relative;
+  left: -24%;
+  margin-top: 2%;
+  width: 351.445px;
+  height: 80px;
+  flex-shrink: 0;
+
+  border-radius: 10px;
+ border: 0px solid #3E64AA;
+ background: #D7D7D7;
+}
+
+
+#skill { 
+  position: relative;
+  left: 20%;
+  margin-top: -7%;
+}
+
+#rect1 {
+  position: relative;
+  top: 40px;
+  left: 16%;
+}
+
+#rect2 {
+  position: relative;
+  left: 16%;
+  top: 40px;
+
+}
+
+#rect3 {
+  position: relative;
+  left: -50%;
+  top: 310px;
+
+}
+
+#rect4 {
+  position: relative;
+  left: 49%;
+  top: 72px;
+}
+
+#rect5 { 
+  position: relative;
+  left: -17%;
+  top: 340px;
+}
+
+#rect6 { 
+  position: relative;
+  left: -17%;
+  top: 340px;
+}
+
+.container {
+  text-align: center;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.intro {
+  width: 100%;
+  height: 100vh;
+}
+
+
+#text3 {
+text-align: center;
+ left: -15%;
+ margin-top: 6%;
+ word-spacing: 220px;
+}
+
+.cricle {
+position: relative;
+  left: -12%;
+  margin-top: -14%;
+}
+
+
+.icon {
+  color: #575757;  
+  word-spacing: 30px;
+
+}
+
+.buttons {
+  position: relative;
+  margin-top: 90px;
+}
+
+
+.backs {
+  position: relative;
+  left: 18%;
+  margin-top: 5%;
+  width: 760px;
+  height: 110px;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background: #FFF;
+}
+
+#victor {
+  position: relative;
+  margin-top: 410px;
+}
